@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+transformers
+langchain
+langchain_community
+pinecone
+langchain-pinecone
+tiktoken
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+langchain-mistralai
+trulens
+trulens-providers-openai
