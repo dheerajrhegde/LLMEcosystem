@@ -152,7 +152,8 @@ This project is licensed under the MIT License.
 For any questions or support, please reach out to Dheeraj.r.hegde\@gmail.com.
 
 ## Output
-
+Sample response as seen in Postman
 ![img.png](img.png)
 
+Trace of one full application call. shows how each component responded
 ![img_1.png](img_1.png)
